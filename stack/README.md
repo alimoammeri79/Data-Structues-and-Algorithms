@@ -1,5 +1,5 @@
 # Stack
-A list that insertion and deletion took place just on/from oneside i.e _top_ of the stack.
+A list that insertion and deletion takes place just on/from oneside i.e _top_ of the stack.
 
 ## Stack Methods
 + push(x): Inserting a new element at top of the stack
